@@ -24,7 +24,6 @@ O site contém as seguintes seções:
 |-------------|---------|
 | 🟦 **HTML5** | Estrutura do site |
 | 🎨 **CSS3** | Estilo e responsividade |
-| 🔤 **Google Fonts (Poppins)** | Tipografia moderna |
 | 🖼️ **Imagens locais** | Fundo, galeria e logotipo |
 | ⚙️ **GitHub Pages** | Hospedagem gratuita |
 
@@ -57,18 +56,14 @@ barco-hotel-site/
 ✅ Menu fixo com logo arredondada  
 ✅ Efeitos *hover* em links e imagens  
 ✅ Layout totalmente responsivo  
-✅ Rodapé com redes sociais e direitos autorais  
+✅ Rodapé direitos autorais  
 ✅ Estilo elegante com cores neutras (preto, cinza e branco)
 
 ---
 
 ## 🚀 Publicação no GitHub Pages
 
-Você pode visualizar o site diretamente no GitHub Pages após publicar:
-```
 [https://jenningsdelk.github.io/barco-hotel-site/](https://jenningsdelk.github.io/barco-hotel/)
-```
-
 ---
 
 ## 👨‍💻 Desenvolvido por
