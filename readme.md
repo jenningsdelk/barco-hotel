@@ -66,7 +66,7 @@ barco-hotel-site/
 
 Você pode visualizar o site diretamente no GitHub Pages após publicar:
 ```
-https://jenningsdelk.github.io/barco-hotel-site/
+[https://jenningsdelk.github.io/barco-hotel-site/](https://jenningsdelk.github.io/barco-hotel/)
 ```
 
 ---
