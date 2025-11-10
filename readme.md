@@ -61,9 +61,9 @@ barco-hotel-site/
 
 ---
 
-## 🚀 Publicação no GitHub Pages
+## 🚀 Publicação no GitHub Pages  
 
-[🌐 Acesse o projeto aqui](https://jenningsdelk.github.io/barco-hotel/)
+[https://jenningsdelk.github.io/barco-hotel/](https://jenningsdelk.github.io/barco-hotel/)
 
 ---
 
