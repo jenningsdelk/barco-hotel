@@ -63,7 +63,7 @@ barco-hotel-site/
 
 ## 🚀 Publicação no GitHub Pages  
 
-[https://jenningsdelk.github.io/barco-hotel/](https://jenningsdelk.github.io/barco-hotel/)
+(https://jenningsdelk.github.io/barco-hotel/)
 
 ---
 
